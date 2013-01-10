@@ -1,0 +1,27 @@
+{
+  "name": "sftp-cleanup",
+  "version": "0.0.1",
+  "description": "Will remove files from a given directory older than N days",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "~1.7.2",
+    "ssh2": "~0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meinKauf/sftp-cleanup.git"
+  },
+  "keywords": [
+    "sftp",
+    "ssh2",
+    "cleanup",
+    "remove"
+  ],
+  "author": "Thomas Fritz",
+  "license": "BSD",
+  "gitHead": "f8e30f0da50aadc06638b99b2a89a7d6352c64da"
+}
