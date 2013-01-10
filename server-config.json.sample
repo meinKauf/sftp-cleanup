@@ -1,0 +1,6 @@
+{
+  "host": "sftp.foobar.com",
+  "port": 22, 
+  "username": "user",
+  "password": "changeme"
+}
